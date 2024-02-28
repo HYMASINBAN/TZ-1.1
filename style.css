@@ -1,0 +1,11 @@
+table {
+    background-color: rgb(251,242,233);
+    border: 1px black solid;
+    margin-left: 580px;
+    margin-top: 200px;
+}
+td {
+    background-color: #ffa984;
+    border: 1px black solid;
+    font-size: 50px;
+}
